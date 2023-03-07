@@ -12,6 +12,7 @@
             <li><a href="https://www.tablericons.com/" target="_blank" rel="noopener noreferrer">Iconos svg</a></li>
             <li><a href="https://joshwcomeau.com/operator-lookup" target="_blank" rel="noopener noreferrer">js operators</a></li>
             <li><a href="https://getcssscan.com/css-checkboxes-examples" target="_blank" rel="noopener noreferrer">CheckBox</a></li>
+            <li><a href="https://ai2ui.co/" target="_blank" rel="noopener noreferrer">Generador de Componentes</a></li>
         </ul>
     </div>
 </template>
